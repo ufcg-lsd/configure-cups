@@ -1,5 +1,8 @@
 #!/bin/usr/env bash
 
+# Update cache on Debian-based distros
+apt update
+
 ## Uninstall CUPS if it's installed
 apt purge cups
 
