@@ -1,5 +1,3 @@
-#!/bin/usr/env bash
-
 # Update cache on Debian-based distros
 apt update
 
